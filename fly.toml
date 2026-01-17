@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for techhive-automation-zfnscq on 2026-01-17T02:37:45Z
+# fly.toml app configuration file generated for techhive-automation on 2026-01-17T08:55:42Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'techhive-automation-zfnscq'
+app = 'techhive-automation'
 primary_region = 'iad'
 
 [build]
